@@ -13,7 +13,7 @@ This project was developed as a part of a Database Management Systems course. It
 
 ## ER Diagram
 
-[ER Diagram.pdf](./ml_report_final.pdf)  
+[ER Diagram.pdf](./Travel Booking System_ERD.pdf)  
 
 
 
