@@ -13,7 +13,7 @@ This project was developed as a part of a Database Management Systems course. It
 
 ## ER Diagram
 
-![ER Diagram](./Travel_Booking_ERD.pdf)
+![ER Diagram](./Travel Booking System_ERD.pdf)
 
 ## Business Rules
 
@@ -41,4 +41,4 @@ This project was developed as a part of a Database Management Systems course. It
 - Lenin Chowdary Koppula  
 - Evan Sayre
 
----
+
