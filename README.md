@@ -13,7 +13,8 @@ This project was developed as a part of a Database Management Systems course. It
 
 ## ER Diagram
 
-![ER Diagram](./Travel Booking System_ERD.pdf)
+[📄 Click to view ER Diagram (PDF)](./Travel_Booking_System_ERD.pdf)
+
 
 ## Business Rules
 
